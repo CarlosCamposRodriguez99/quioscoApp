@@ -1,0 +1,3 @@
+const formatearDinero = cantidad => {
+  retunr-
+}
